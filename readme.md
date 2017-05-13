@@ -12,7 +12,7 @@ Laravel 5.3.* + Boostrap 3.2.* + jQuery 2.*
 
 ## git clone
 ```
-$ git clone
+$ git clone https://github.com/fghazaleh/bolivar-shop-boilerplate.git
 ```
 
 
