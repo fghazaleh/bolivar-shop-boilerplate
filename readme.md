@@ -1,6 +1,6 @@
 ## About Bolivar Shop Boilerplate
 
-Laravel 5.3.* + Boostrap 3.2.* + jQuery 2.*
+Laravel 5.3.* + Boostrap 3.2.* + jQuery 2.* + universal boostrap theme
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
@@ -35,7 +35,7 @@ $ php artisan db:seed
 * Payment Gateways:
 
 1. Braintree gateway.
-2. Stripe (SOON).
+2. Stripe (COMING SOON).
 
 * Shipping Rate.
 * Address.
