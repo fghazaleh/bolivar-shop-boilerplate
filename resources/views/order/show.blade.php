@@ -52,31 +52,4 @@
             </div><!--/.row-->
         </div><!--/.container-->
     </div><!--/.content-->
-
-
 @endsection
-{{--
-
-<div class="row">
-    <div class="col-md-12">
-        <h3>Order # {{$order->id}}</h3>
-        <hr />
-        <div class="row">
-            <div class="col-md-6">
-                <h4>Shipping to</h4>
-            </div>
-            <div class="col-md-6">
-                <h4>Items</h4>
-                @foreach($order->orderItems as $product)
-                    <a href="{{route('product.show',[$product->id.'-'.str_slug($product->title)])}}">{{$product->title}} ({{$product->pivot->quantity}})</a><br />
-                @endforeach
-
-            </div>
-        </div><!--/row-->
-        <hr />
-        <p>
-            Shipping: $4.00<br />
-            <strong>Order total: ${{ money_format($order->total,2) }}</strong>
-        </p>
-    </div>
-</div><!--/row-->--}}

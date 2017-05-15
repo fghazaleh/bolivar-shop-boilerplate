@@ -56,7 +56,7 @@ $ php artisan serve
 
 ## Security Vulnerabilities
 
-f you discover a security vulnerability within this boilerplate,
+if you discover a security vulnerability within this boilerplate,
 please send an e-mail to F. Ghazaleh at franco.ghazaleh@gmail.com,
 or create a pull request if possible. All security vulnerabilities will be promptly addressed.
 Please reference this page to make sure you are up to date.
